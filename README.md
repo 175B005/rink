@@ -13,3 +13,6 @@ paizaラーニング
 http://www.freem.ne.jp/contents/create/tool.html
 wolf rpg エディター
 - http://www.silversecond.com/WolfRPGEditor/
+
+mayaモデリング(face.ポリゴン)
+- http://www.cg-ya.net/3dcg/3dmodeling_howto/3dcg-modeling-way/
