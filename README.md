@@ -16,3 +16,6 @@ wolf rpg エディター
 
 mayaモデリング(face.ポリゴン)
 - http://www.cg-ya.net/3dcg/3dmodeling_howto/3dcg-modeling-way/
+
+画像のあれこれ
+- http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats
