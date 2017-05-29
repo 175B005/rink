@@ -16,6 +16,7 @@
 
 - [mayaモデリング(face.ポリゴン1)](http://www.cg-ya.net/3dcg/3dmodeling_howto/3dcg-modeling-way/)
 - [mayaモデリング(face.ポリゴン2)](https://www.youtube.com/watch?v=xzmg0grXHyE)
+- [カメラライト？](http://thankstotoday.com/modeling-shadows/)
 
 
 - [画像のあれこれ](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
