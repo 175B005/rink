@@ -22,3 +22,7 @@
 - [画像のあれこれ](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
 
 - [環境](http://www.monodevelop.com/)
+
+## 企業
+- [rinkさんｗ](http://linx.jp/company/partner.html)
+omuron softwere
