@@ -2,6 +2,7 @@
 リンク集ｗ
 
 - [ps3コントローラーで動かす。](http://gametukurikata.com/program/ps3gamepad)
+- [ps3_2](http://gametukurikata.com/category/fps)
 
 - [mayaからunity impot](http://indiegame-japan.com/2016/04/13/post-131/)
 
@@ -27,3 +28,8 @@
 - [rinkさんｗ](http://linx.jp/company/partner.html)
 omuron softwere
 - [NPC](http://www6.plala.or.jp/mnagaku/paper/mps18.html)
+
+-[サクセスゲーム塾](https://www.success-corp.co.jp/)
+
+-[unity?効果音](https://increment-log.com/unity-sound-se-play)
+ -mp3ファイルをoggファイルに。。。しなくてもいいけどｗｗ
