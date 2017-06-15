@@ -24,12 +24,16 @@
 
 - [環境](http://www.monodevelop.com/)
 
-### 企業
-- [rinkさんｗ](http://linx.jp/company/partner.html)
-omuron softwere
 - [NPC](http://www6.plala.or.jp/mnagaku/paper/mps18.html)
 
 -[サクセスゲーム塾](https://www.success-corp.co.jp/)
 
 -[unity?効果音](https://increment-log.com/unity-sound-se-play)
- -mp3ファイルをoggファイルに。。。しなくてもいいけどｗｗ
+　-mp3ファイルをoggファイルに。。。しなくてもいいけどｗｗ
+ 
+ 
+ 
+### 企業
+- [rinkさんｗ](http://linx.jp/company/partner.html)
+omuron softwere
+
