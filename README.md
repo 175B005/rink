@@ -37,3 +37,7 @@
 - [rinkさんｗ](http://linx.jp/company/partner.html)
 omuron softwere
 
+
+### 画像
+- [ドット絵](http://design.kayac.com/topics/2012/02/post-47.php)
+- [背景](http://otarunet.com/it/webdesign/photoshop-photo-illustration/)
