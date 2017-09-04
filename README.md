@@ -19,9 +19,6 @@
 - [mayaモデリング(face.ポリゴン2)](https://www.youtube.com/watch?v=xzmg0grXHyE)
 - [カメラライト？](http://thankstotoday.com/modeling-shadows/)
 
-
-- [環境](http://www.monodevelop.com/)
-
 - [NPC](http://www6.plala.or.jp/mnagaku/paper/mps18.html)
 
 -[サクセスゲーム塾](https://www.success-corp.co.jp/)
