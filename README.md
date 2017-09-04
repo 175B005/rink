@@ -25,18 +25,13 @@
 - [NPC](http://www6.plala.or.jp/mnagaku/paper/mps18.html)
 
 -[サクセスゲーム塾](https://www.success-corp.co.jp/)
-
--[unity?効果音](https://increment-log.com/unity-sound-se-play)
-　-mp3ファイルをoggファイルに。。。しなくてもいいけどｗｗ
  
 -[unityスクロール、カメラワーク](http://gomafrontier.com/unity/1010)
- 
  
  
 ### 企業
 - [rinkさんｗ](http://linx.jp/company/partner.html)
 omuron softwere
-
 
 ### 画像
 - [ドット絵](http://design.kayac.com/topics/2012/02/post-47.php)
