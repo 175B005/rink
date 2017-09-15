@@ -24,6 +24,8 @@
 -[サクセスゲーム塾](https://www.success-corp.co.jp/)
  
 -[unityスクロール、カメラワーク](http://gomafrontier.com/unity/1010)
+
+- [unityのアカウントに登録web build](blog.naichilab.com/entry/cloud-build-webgl)
  
  
 ### 企業
