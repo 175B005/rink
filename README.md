@@ -25,7 +25,7 @@
  
 -[unityスクロール、カメラワーク](http://gomafrontier.com/unity/1010)
 
-- [unityのアカウントに登録web build](blog.naichilab.com/entry/cloud-build-webgl)
+- [unityのアカウントに登録web build]()
  
  
 ### 企業
