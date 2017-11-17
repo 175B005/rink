@@ -38,4 +38,4 @@ omuron softwere
 - [画像のあれこれ](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
 
 ## unity１週間ゲームジャム用アセットメモ
- - [](http://u3d.as/xNP)
+ - http://u3d.as/xNP
