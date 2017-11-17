@@ -36,3 +36,6 @@ omuron softwere
 - [ドット絵](http://design.kayac.com/topics/2012/02/post-47.php)
 - [背景](http://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 - [画像のあれこれ](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
+
+## unity１週間ゲームジャム用アセットメモ
+ - [](http://u3d.as/xNP)
