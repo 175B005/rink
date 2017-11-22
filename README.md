@@ -39,3 +39,7 @@ omuron softwere
 
 ## unity１週間ゲームジャム用アセットメモ
  - パーティクル、エフェクト http://u3d.as/xNP
+##
+ - vuforia(バーチャルのかめらになる) (https://qiita.com/murasan/items/b31d9deb6d8b24bd9134)  
+ 
+ 
