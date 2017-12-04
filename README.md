@@ -43,5 +43,7 @@ omuron softwere
  - vuforia(バーチャルのかめらになる) (https://qiita.com/murasan/items/b31d9deb6d8b24bd9134)  
  
  - 6side map https://qiita.com/ELIXIR/items/c71ee67eb259bfa7d2c7  
+ - RPGのいいアセット？　http://u3d.as/vv0
+ 
  
  
