@@ -44,6 +44,8 @@ omuron softwere
  
  - 6side map https://qiita.com/ELIXIR/items/c71ee67eb259bfa7d2c7  
  - RPGのいいアセット？　http://u3d.as/vv0
+ - mayaモデルリグ　https://area.autodesk.jp/column/tutorial/chara_maya/01/
+ 
  
  
  
