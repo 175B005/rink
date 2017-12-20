@@ -1,5 +1,9 @@
 # rink
 いろいろとメモを残しておきたいというリンク集。。
+みなさん勝手にみてねー。
+どんどん追加していきます。（予定）
+ホームページを近々作るので、そこに集中することになるかもですねｗｗ
+どうぞ気軽にコメントなどドーゾゾ。
 
 - [ps3コントローラーで動かす。](http://gametukurikata.com/program/ps3gamepad)
 - [ps3_2](http://gametukurikata.com/category/fps)
@@ -46,6 +50,13 @@ omuron softwere
  - RPGのいいアセット？　http://u3d.as/vv0
  - mayaモデルリグ　https://area.autodesk.jp/column/tutorial/chara_maya/01/
  
- 
- 
+ - [パタパタユニちゃんクリスマス](https://raw.githubusercontent.com/175B005/rink/master/patapataunitychan.jpg.png)
+ - [↑登校ページｗｗ](http://assetstore.info/eventandcontest/themechallenge/chiristmas/)
+ - ↓紹介分  
+   忙しくもゆったりとしたひと時。  たくさんのユニちゃんに癒されるユニちゃん、、、あれ？  、、、  
+   窓以外アセットを使用しています。窓は手作り。。  
+   クリスマスの部屋はアセットまんまですので、  
+   この表現がすぐできるってコトです！  
+   個別になってて編集しやすいですが、  
+   デモシーンはライトに気をつけてくださ～い。  
  
