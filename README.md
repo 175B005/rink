@@ -1,5 +1,5 @@
 # rink
-リンク集ｗ
+いろいろとメモを残しておきたいというリンク集。。
 
 - [ps3コントローラーで動かす。](http://gametukurikata.com/program/ps3gamepad)
 - [ps3_2](http://gametukurikata.com/category/fps)
