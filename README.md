@@ -29,8 +29,7 @@
  
 -[unityスクロール、カメラワーク](http://gomafrontier.com/unity/1010)
 
-- [unityのアカウントに登録web build]()
- 
+- [maya unity](https://youtu.be/0awywk4IqRU)
  
 ### 企業
 - [rinkさんｗ](http://linx.jp/company/partner.html)
