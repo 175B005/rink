@@ -13,6 +13,9 @@
 
 - [paizaラーニング](https://paiza.jp/works)
 
+- [ping-t](http://ping-t.com/)　　
+Ciscoの認定資格　CCNAとか、、学習できるサイト、ID　duki
+
 
 - [ゲーム制作ソフト](http://www.freem.ne.jp/contents/create/tool.html)
 
