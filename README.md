@@ -63,7 +63,7 @@ omuron softwere
    この表現がすぐできるってコトです！  
    個別になってて編集しやすいですが、  
    デモシーンはライトに気をつけてくださ～い。  
- 
- 
+   
+ - [Anima2D](http://techblog.sega.jp/entry/2018/03/26/100000)
  
  100+ Magic Particle Effectsメモ
