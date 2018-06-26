@@ -69,3 +69,5 @@ omuron softwere
  100+ Magic Particle Effectsメモ
  
  http://pineplanter.moo.jp/non-it-salaryman/2016/07/06/editey-google-drive/
+ 
+ http://d.hatena.ne.jp/Molokheiya/20100219/p1
